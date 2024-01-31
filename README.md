@@ -8,6 +8,7 @@ My stack is made of:
 - 📃 HTML
 - 🟪 CSS & Bootstrap 5
 - 🟨 JavaScript
+- ⚛️ ReactJS
 - 🔵 C++
 - ☕ Java
 
@@ -16,7 +17,6 @@ I'm currently getting down the basics of:
 - Python
 - C#
 - NodeJS
-- ReactJS
 
 ## About Me
 
